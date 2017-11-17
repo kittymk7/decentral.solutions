@@ -37,6 +37,9 @@ The same consensus is applied when an authority node is removed from the network
 The Ethereum Proof-of-Authority protocol is called Clique and is well described in the [Clique Github issue](https://github.com/ethereum/EIPs/issues/225).
 Ethereum currently uses this algorithm for the [Rinkeby test network](https://rinkeby.io/).
 
+<!-- more -->
+
+
 Proof-of-Authority is a near perfect fit for private networks but not at all suited for public networks where the trust should be as distributed as possible.
 
 ## How to set up a PoA geth network

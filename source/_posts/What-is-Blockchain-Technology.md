@@ -14,13 +14,14 @@ The famous question and most trended topic in the year 2017. Let's explore more 
 
 Before we dive into more concepts related matters, let listen one of the **TED TALKS** explained about blockchain technology.
 
-<!-- more -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RplnSVTzvnU" frameborder="0" allowfullscreen></iframe>
 
 Lets get to the defination:
 
   >  The blockchain is the **_decentralized transparent ledger with the transaction records_**—the database that is shared by all network nodes, **_updated by miners, monitored by everyone, and owned and controlled by no one_**.
+
+<!-- more -->
 
 
 ## Open decentralized public ledger

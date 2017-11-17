@@ -12,6 +12,9 @@ This little device, nicknamed *ELLA*, was conceived at [Fail Faster Shanghai](ht
 
 *ELLA* was such a startup concept: stop getting distracted by your phone and simply trust that *ELLA* provides you with up-to-date information, based on what's relevant to you in whichever context you find yourself. Near the door, *ELLA* would remind you to bring an umbrella in case of rain. At the office it would remind you of an upcoming meeting. *ELLA* does all this purposefully, without drawing too much attention to itself, simply by changing color and displaying an icon. It does not rely on your phone and in fact enables you to leave your phone in your pocket and not get distracted.
 
+<!-- more -->
+
+
 # November 2014
 ![](/images/Lionello Lunesu - Retooling for Success/03 Nov 2014 Web summit.jpg)
 
