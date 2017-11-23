@@ -18,7 +18,7 @@ Bitcoin is a digital currency and a public ledger. Often the ledger is itself mi
 > — Sally Davies, FT Technology Reporter
 
 So, let’s move on to what blockchain is.
-
+<!-- more -->
 ## Blockchain
 Blockchain by definition is *an open transparent distributed ledger*. That’s it. Nothing more. Nothing less. But you still feel confused. Let me explain what that definition means.
 

@@ -1,0 +1,15 @@
+I deleted from package.json, it looked like this before
+
+{
+  "name": "hexo-site",
+  "version": "0.0.0",
+  "private": true,
+  "hexo": {
+    "version": "3.4.1"
+  },
+  "dependencies": {
+    "hexo-generator-index": "^0.2.0",
+    ...dependencies
+  }
+}
+To use custom landing page instead of the default archive index, remove the line containing hexo-generator-index from package.json in the project root. Then, edit source/index.ejs.

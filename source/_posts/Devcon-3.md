@@ -43,6 +43,7 @@ Thankfully even if you didn't attend, all of the content is streamed online but 
 *   Introduction to WALLETH – the Ethereum Android Wallet [Youtube](https://youtu.be/8sXzxkODH-c?t=19m55s), [Foundation](https://ethereumfoundation.org/devcon3/sessions/introduction-to-walleth-the-ethereum-android-wallet/)
 *   Status – Ethereum at the edges of the Network [Youtube](https://youtu.be/8sXzxkODH-c?t=34m39s), [Foundation](https://ethereumfoundation.org/devcon3/sessions/ethereum-at-the-edges-of-the-network/)
 *   Evolving devp2p [Youtube](https://youtu.be/8sXzxkODH-c?t=47m30s), [Foundation](https://ethereumfoundation.org/devcon3/sessions/evolving-devp2p/)
+<!-- more -->
 *   EVM-C: Portable API for Ethereum Virtual Machines [Youtube](https://youtu.be/8sXzxkODH-c?t=1h3m27s), [Foundation](https://ethereumfoundation.org/devcon3/sessions/evm-c-portable-api-for-ethereum-virtual-machines/)
 *   The EVM: Cleaner, Meaner, and Closer to the Metal [Youtube](https://youtu.be/8sXzxkODH-c?t=1h20m33s), [Foundation](https://ethereumfoundation.org/devcon3/sessions/the-evm-cleaner-meaner-and-closer-to-the-metal/)
 *   PANEL: Evolving the EVM [Youtube](https://youtu.be/8sXzxkODH-c?t=1h45m47s), [Foundation](https://ethereumfoundation.org/devcon3/sessions/panel-evolving-the-evm/)
