@@ -1,7 +1,11 @@
 ---
-title: Devcon 3
+title: Devcon 3 Lectures and VODs
 date: 2017-11-22 19:50:56
+thumbnail: https://s3-us-west-2.amazonaws.com/fireteam-alpha/https-decentral-solutions-cdn/devcon.png
 tags:
+- Projects
+- AI
+featured: true
 ---
 # Ethereum's Developer Conference
 
@@ -13,8 +17,10 @@ tags:
 
 Devcon 3 was a 4 day conference where the latest and greatest minds on Ethereum gathered to discuss the most up to dates methodologies, technologies, and regulations that impact the Ethereum ecosystem.
 
-Thankfully even if you didn't attend, all of the content is streamed online but in disparate places. I've organized them by topic and timestamp so it's organized all in one place.
+Thankfully even if you didn't attend, all of the content is streamed online but in disparate places. I've organized them by topic and timestamp so it's organized all in one place.  
 
+**Our team with Ethereum founder Vitalik Buterin**  
+![Our team with Ethereum founder Vitalik Buterin](https://s3-us-west-2.amazonaws.com/fireteam-alpha/https-decentral-solutions-cdn/devcon3.png)
  
 ## Day One
 
