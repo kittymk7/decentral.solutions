@@ -3,6 +3,7 @@ title: '[Case Study] Token Design'
 date: 2017-12-30 10:48:34
 thumbnail: https://s3-us-west-2.amazonaws.com/fireteam-alpha/https-decentral-solutions-cdn/howto.png
 tags:
+- Case Studies
 - Projects
 - Case Study
 category: "Projects"

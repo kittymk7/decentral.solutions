@@ -3,6 +3,7 @@ title: '[Case Study] Public Capped Sale'
 date: 2017-12-30 09:32:35
 thumbnail: https://s3-us-west-2.amazonaws.com/fireteam-alpha/https-decentral-solutions-cdn/casestudy2.png
 tags:
+- Case Studies
 - Projects
 - AI
 category: "Projects"

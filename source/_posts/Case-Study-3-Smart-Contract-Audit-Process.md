@@ -2,6 +2,7 @@
 title: '[Case Study] Smart Contract Audit Process'
 date: 2017-12-30 12:32:51
 tags:
+- Case Studies
 - Projects
 - Audits
 category: "Projects"
