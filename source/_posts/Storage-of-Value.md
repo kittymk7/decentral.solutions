@@ -1,6 +1,7 @@
 ---
 title: Storage of Value
 date: 2017-11-13 04:40:10
+thumbnail: https://s3.amazonaws.com/ptsteadman-images/lookup.jpg
 tags:
 ---
 

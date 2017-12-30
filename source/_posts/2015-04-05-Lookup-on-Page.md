@@ -4,9 +4,8 @@ title: Adding Lookup Field to a Page in Dynamics NAV
 date: 2015-04-05
 thumbnail: https://s3.amazonaws.com/ptsteadman-images/lookup.jpg
 tags:
-- Resources
-- NAV
-category: "Dynamics NAV"
+- Ethereum
+category: "Blockchain"
 author: Patrick Steadman
 lede: "One of the problems I faced in building a non-trivial application that consumed NAV Web Services was figuring out how to join fields from different tables."
 ---

@@ -3,10 +3,10 @@ layout: post
 title: NAV Web Service Programming Resources
 date: 2015-04-08
 thumbnail: https://s3.amazonaws.com/ptsteadman-images/NAV.jpg
-category: "Dynamics NAV"
+category: "Distributed Networks"
 tags:
-- NAV
-- Resources
+- Distributed Networks
+- Bitcoin
 lede: "Here are some of the resources I found helpful for learning to develop Dynamics NAV web service based applications."
 ---
 
