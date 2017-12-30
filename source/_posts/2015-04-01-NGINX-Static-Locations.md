@@ -4,10 +4,10 @@ title: Static NGINX Locations
 date: 2015-04-01
 category: NGINX
 tags:
+- Deployments
 - Web Development
 thumbnail: https://s3.amazonaws.com/ptsteadman-images/nginx-proxy.png
 lede: "Everytime I finish a project, I have to relearn how to add new 'locations' (paths) to the NGINX virtual host."
-featured: true
 ---
 
 I try to get a lot of mileage out of the single AWS t2.micro instance I keep running, 

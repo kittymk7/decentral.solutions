@@ -1,7 +1,15 @@
 ---
-title: How key attributes often define a Cryptocurrency's actual usecase
+title: Defining a crypto currency's usecase
 date: 2017-11-27 23:19:50
+thumbnail: https://i.imgur.com/CVLttUc.png
 tags:
+- Ethereum
+- Tokens
+- Blockchain
+category: "Concepts"
+author: Ling Qing Meng
+lede: "One of the problems I faced in building a non-trivial application that consumed NAV Web Services was figuring out how to join fields from different tables."
+featured: true
 ---
 
 **author: Ling Qing Meng**  
@@ -21,7 +29,7 @@ I'm going to share how by comparing these core concept's you'll see if the claim
 A cryptocurrency's usecase can often be deduced by the consensus algorithm. This algorithm is responsible for maintaining the global state of the network in a way that guarantees authentic transactions even if the individual actors (or nodes) are untrusted.  
 
 [More about consensus algorithms](https://www.coindesk.com/short-guide-blockchain-consensus-protocols/)
-
+![Marco Iansiti is a professor at the Harvard Business School, whose primary research interest is technology and economics](https://i.imgur.com/CVLttUc.png)
 
 
 ### Bitcoin - A Store of Value
