@@ -1,6 +1,7 @@
 ---
 title: Devcon 3 Lectures and VODs
 date: 2017-11-22 19:50:56
+author: Ling Qing Meng
 thumbnail: https://s3-us-west-2.amazonaws.com/fireteam-alpha/https-decentral-solutions-cdn/devcon.png
 tags:
 - Projects
