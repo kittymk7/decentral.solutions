@@ -19,6 +19,7 @@ Author: Dillon Settle
 General Inquiries: hello@decentral.solutions
 ```
 
+
 **WHAT IS IT?**
 
 Bluzelle combines the sharing economy with the token economy - renting individuals' computer storage space to earn tokens while dApp developers use tokens to have their dApp's data stored and managed.
@@ -40,7 +41,7 @@ Blockchain data is immutable (can never be changed), and blockchains generally g
 >There’s rapid innovation in blockchain and frenetic activity in the decentralized storage space, in particular, thanks to IPFS/Filecoin, Storj, Sia, and Ethereum’s Swarm. But these solutions can only progress the decentralized so far.
 
 >Bluzelle fills a key gap in decentralised infrastructure. Whenever we are asked what is Bluzelle’s differentiator — and we get the question a lot — the answer is simple:
-<!--more-->
+
 >Bluzelle is a database service while the rest of these are file services.”
 
 >Bluzelle is a quick, cheap and scalable decentralized database service ready for the world’s dApps.
@@ -64,32 +65,26 @@ The Singapore-based firm's decentralized database is a pioneer in data storage a
 Straight from the White-Paper, the easiest and most thorough explanation of how Bluzelle actually works:
 
 >Using concepts taken from NoSQL (non-relational SQL), Bluzelle's first incarnation is a keyvalue
-storage that exploits horizontal data sharding partitioning concepts to split databases,
-irrespective of size, into smaller, faster, and more easily managed parts called data shards (shard
-means "a small part of a whole"). Bluzelle takes this concept and marries it with blockchain
-concepts to create a powerful economy of producers and consumers. In modern nomenclature,
-it a crypto-economic network. In later versions, vertical partitioning will be added, with the
-ability for the consumer to direct how and where partitioning occurs on both axis’.
-The producers (aka farmers or miners) provide resources in the form of CPU processing power,
-memory, permanent storage, and network connectivity to enable database shards to be stored
-with sufficient partial replication across a swarm of swarms of nodes (a metaswarm) to
-guarantee availability and redundancy. In later versions of Bluzelle, a smaller, proportional
-“stake” will be put up as collateral by a producer as an incentive for them to guarantee
-reliability. The stake can be proportionally lost, if sufficient metrics are not met.
-Consumers use Bluzelle's database services provided by the collective whole (all the producers),
-and in turn pay for the services using the Bluzelle ERC-20 Token (BLZ) and Bluzelle Native
-Token (BNT) . They have control over attributes that dictate how and where their data is
-stored, that will affect the BNT cost for these services.
-Initial peer data needed for new nodes or client applications to bootstrap themselves with
-Bluzelle uses the Ethereum blockchain (a pre-existing decentralized network) as a basis to get
-all associated data in a reliable, scalable, and low-cost way. This approach does not reduce the
-degree of decentralization of Bluzelle
+storage that exploits horizontal data sharding partitioning concepts to split databases, irrespective of size, into smaller, faster, and more easily managed parts called data shards (shard means "a small part of a whole"). 
+
+
+>Bluzelle takes this concept and marries it with blockchain concepts to create a powerful economy of producers and consumers. In modern nomenclature, it a crypto-economic network. In later versions, vertical partitioning will be added, with the ability for the consumer to direct how and where partitioning occurs on both axis’.
+
+
      
 **WHO IT AFFECTS**
 
 Generally speaking, Bluzelle affects every Internet user who intends to step into the new age of Internet and data storage services.
 
-One group of people this partiularly affects in a positive manner, are those who have previously stored data on the extremely expensive Ethereum network, and those who previously supported FileCoin.
+One group of people this partiularly affects in a positive manner, are those who have previously stored data on the extremely expensive Ethereum network, and those who previously supported FileCoin. From their whitepaper: 
+
+> The producers (aka farmers or miners) provide resources in the form of CPU processing power, memory, permanent storage, and network connectivity to enable database shards to be stored with sufficient partial replication across a swarm of swarms of nodes (a metaswarm) to guarantee availability and redundancy. In later versions of Bluzelle, a smaller, proportional “stake” will be put up as collateral by a producer as an incentive for them to guarantee reliability. The stake can be proportionally lost, if sufficient metrics are not met.
+
+
+> Consumers use Bluzelle's database services provided by the collective whole (all the producers), and in turn pay for the services using the Bluzelle ERC-20 Token (BLZ) and Bluzelle Native Token (BNT) . They have control over attributes that dictate how and where their data is stored, that will affect the BNT cost for these services.
+Initial peer data needed for new nodes or client applications to bootstrap themselves with
+Bluzelle uses the Ethereum blockchain (a pre-existing decentralized network) as a basis to get all associated data in a reliable, scalable, and low-cost way. This approach does not reduce the degree of decentralization of Bluzelle
+
 
 We all know the Ethereum Network is extremely expensive to store data. If you would like to see a specific example firsthand, follow this link: [Gas Usage Example] (https://medium.com/@didil/off-chain-data-storage-ethereum-ipfs-570e030432cf)
 
@@ -115,20 +110,20 @@ I think it's safe to say Bluzelle is a team to watch, and you certainly don't wa
 
   **Citations**
 
-[1.] (http://sbr.com.sg/information-technology/exclusive/decentralized-database-firm-bluzelle-raises-195-million-in-ico)
+[1.] (http://sbr.com.sg/information-technology/exclusive/decentralized-database-firm-bluzelle-raises-195-million-in-ico) http://sbr.com.sg/information-technology/exclusive/decentralized-database-firm-bluzelle-raises-195-million-in-ico
 
-[2.] (https://blog.bluzelle.com/is-bluzelle-a-blockchain-f16602ba828)
+[2.] (https://blog.bluzelle.com/is-bluzelle-a-blockchain-f16602ba828) https://blog.bluzelle.com/is-bluzelle-a-blockchain-f16602ba828  
 
-[3.] (https://blog.bluzelle.com/how-is-bluzelle-different-from-ipfs-filecoin-storj-sia-and-ethereums-swarm-1d1d792658f8)
+[3.] (https://blog.bluzelle.com/how-is-bluzelle-different-from-ipfs-filecoin-storj-sia-and-ethereums-swarm-1d1d792658f8) https://blog.bluzelle.com/how-is-bluzelle-different-from-ipfs-filecoin-storj-sia-and-ethereums-swarm-1d1d792658f8   
 
-[4.] (https://support.binance.com/hc/en-us/articles/360000636671-Bluzelle-BLZ-)
+[4.] (https://support.binance.com/hc/en-us/articles/360000636671-Bluzelle-BLZ-) https://support.binance.com/hc/en-us/articles/360000636671-Bluzelle-BLZ-   
 
-[5.] (https://bluzelle.com/wp-content/uploads/2017/10/Bluzelle-White-Paper.pdf)
+[5.] (https://bluzelle.com/wp-content/uploads/2017/10/Bluzelle-White-Paper.pdf) https://bluzelle.com/wp-content/uploads/2017/10/Bluzelle-White-Paper.pdf  
 
-[6.] (https://github.com/ico-check/ico-check/issues/22)
+[6.] (https://github.com/ico-check/ico-check/issues/22) https://github.com/ico-check/ico-check/issues/22  
 
-[7.] (https://tokeneconomy.co/the-analysis-filecoin-doesnt-want-you-to-read-e60d5243f17c)
+[7.] (https://tokeneconomy.co/the-analysis-filecoin-doesnt-want-you-to-read-e60d5243f17c) https://tokeneconomy.co/the-analysis-filecoin-doesnt-want-you-to-read-e60d5243f17c  
 
-[8.] (https://medium.com/@didil/off-chain-data-storage-ethereum-ipfs-570e030432cf)
+[8.] (https://medium.com/@didil/off-chain-data-storage-ethereum-ipfs-570e030432cf) https://medium.com/@didil/off-chain-data-storage-ethereum-ipfs-570e030432cf   
 
-[9.] (https://bluzelle.com/)
+[9.] (https://bluzelle.com/) https://bluzelle.com/  
