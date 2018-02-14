@@ -23,18 +23,19 @@ General Inquiries: hello@decentral.solutions
 
 
 **WHAT IS IT?**
-
+  
 Bluzelle combines the sharing economy with the token economy - renting individuals' computer storage space to earn tokens while dApp developers use tokens to have their dApp's data stored and managed.
-
+   
 Bluzelle is a decentralized, on-demand, scalable database service for dApps. To ensure developers get the highest throughput in performance, reliability and scalability, Bluzelle implements swarming technologies.
-
+  
 A swarm is a large group of nodes (computers) that work together to store and manage data. Nodes in these swarms can go down and new nodes can come up with minimal impact on the network. 
+   
 Bluzelle fills a need to make the decentralized Internet complete, by improving efficiency and scale of data storage and management.
+   
+Bluzelle is NOT a blockchain. Blockchains, at the risk of giving a circular answer, are chains of blocks of data. Bluzelle is a database, and conceptually, not too different from common NoSQL databases. 
 
 <!--more-->
 
-
-Bluzelle is NOT a blockchain. Blockchains, at the risk of giving a circular answer, are chains of blocks of data. Bluzelle is a database, and conceptually, not too different from common NoSQL databases. 
 
 Blockchain data is immutable (can never be changed), and blockchains generally grow monotonically (some blockchains can be pruned). Blockchains also typically require some sort of proof in order to maintain integrity of the information contained within and reach global consensus, usually via proof of stake or proof of work.
 
@@ -85,21 +86,22 @@ One group of people this partiularly affects in a positive manner, are those who
 > The producers (aka farmers or miners) provide resources in the form of CPU processing power, memory, permanent storage, and network connectivity to enable database shards to be stored with sufficient partial replication across a swarm of swarms of nodes (a metaswarm) to guarantee availability and redundancy. In later versions of Bluzelle, a smaller, proportional “stake” will be put up as collateral by a producer as an incentive for them to guarantee reliability. The stake can be proportionally lost, if sufficient metrics are not met.
 
 
-> Consumers use Bluzelle's database services provided by the collective whole (all the producers), and in turn pay for the services using the Bluzelle ERC-20 Token (BLZ) and Bluzelle Native Token (BNT) . They have control over attributes that dictate how and where their data is stored, that will affect the BNT cost for these services.
-Initial peer data needed for new nodes or client applications to bootstrap themselves with
-Bluzelle uses the Ethereum blockchain (a pre-existing decentralized network) as a basis to get all associated data in a reliable, scalable, and low-cost way. This approach does not reduce the degree of decentralization of Bluzelle
+> Consumers use Bluzelle's database services provided by the collective whole (all the producers), and in turn pay for the services using the Bluzelle ERC-20 Token (BLZ) and Bluzelle Native Token (BNT) . They have control over attributes that dictate how and where their data is stored, that will affect the BNT cost for these services. 
 
+```
+Initial peer data needed for new nodes or client applications to bootstrap themselves with Bluzelle uses the Ethereum blockchain (a pre-existing decentralized network) as a basis to get all associated data in a reliable, scalable, and low-cost way. This approach does not reduce the degree of decentralization of Bluzelle
+```
 
-We all know the Ethereum Network is extremely expensive to store data. If you would like to see a specific example firsthand, follow this link: [Gas Usage Example] (https://medium.com/@didil/off-chain-data-storage-ethereum-ipfs-570e030432cf)
+We all know the Ethereum Network is extremely expensive to store data. If you would like to see a specific example firsthand, follow this link: [Gas Usage Example](https://medium.com/@didil/off-chain-data-storage-ethereum-ipfs-570e030432cf)
 
 
  **FINAL WORDS**
 
  To wrap up on Bluzelle's features and intended path, I'll add some photos showing the features of Bluelle, and their intended use of funds/tokn distribution.
      
-![alt text] (https://user-images.githubusercontent.com/32852887/34074496-a5001c1c-e2b0-11e7-9c0e-07d8ecd40f44.png)
-    ![alt text] (https://user-images.githubusercontent.com/32852887/34074497-a9676eea-e2b0-11e7-9a5c-de58af79f60c.png)
-    ![alt text] (https://cdn.icodrops.com/wp-content/uploads/2017/11/Features-2.png)
+![alt text](https://user-images.githubusercontent.com/32852887/34074496-a5001c1c-e2b0-11e7-9c0e-07d8ecd40f44.png)
+![alt text](https://user-images.githubusercontent.com/32852887/34074497-a9676eea-e2b0-11e7-9a5c-de58af79f60c.png)
+![alt text](https://cdn.icodrops.com/wp-content/uploads/2017/11/Features-2.png)
      
  With Bluzelle having nearly zero solid competitors, large upside potential and little downside, they seem to be paving the future for decentralized data storage.
 
