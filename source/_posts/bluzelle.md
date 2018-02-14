@@ -1,3 +1,17 @@
+---
+title: 'Bluzelle - Scalable Data Services for dApps'
+date: 2017-02-13 10:38:34
+thumbnail: https://i.imgur.com/rulXSfI.jpg
+category: "Projects"
+author: Dillon Settle
+tags:
+- Case Studies
+- Projects
+- Proof of Concept
+---
+  
+   
+
 # Bluzelle - Scalable Data Services for dApps 
 
 ```
