@@ -1,23 +1,25 @@
 ---
 title: 'Bluzelle - Scalable Data Services for dApps'
-date: 2018-02-13 10:38:34
+date: 2017-02-13 10:38:34
 thumbnail: https://i.imgur.com/rulXSfI.jpg
 category: "Projects"
 author: Dillon Settle
 tags:
-- Case Studies
-- Projects
-- Proof of Concept
+- Guest Posts
+- New Technology
+- Editorial
+
 ---
   
-   
-
-# Bluzelle - Scalable Data Services for dApps 
 
 ```
 Author: Dillon Settle
 General Inquiries: hello@decentral.solutions
 ```
+
+   
+
+# Bluzelle - Scalable Data Services for dApps 
 
 
 **WHAT IS IT?**
@@ -28,6 +30,9 @@ Bluzelle is a decentralized, on-demand, scalable database service for dApps. To 
 
 A swarm is a large group of nodes (computers) that work together to store and manage data. Nodes in these swarms can go down and new nodes can come up with minimal impact on the network. 
 Bluzelle fills a need to make the decentralized Internet complete, by improving efficiency and scale of data storage and management.
+
+<!--more-->
+
 
 Bluzelle is NOT a blockchain. Blockchains, at the risk of giving a circular answer, are chains of blocks of data. Bluzelle is a database, and conceptually, not too different from common NoSQL databases. 
 
@@ -64,8 +69,7 @@ The Singapore-based firm's decentralized database is a pioneer in data storage a
 
 Straight from the White-Paper, the easiest and most thorough explanation of how Bluzelle actually works:
 
->Using concepts taken from NoSQL (non-relational SQL), Bluzelle's first incarnation is a keyvalue
-storage that exploits horizontal data sharding partitioning concepts to split databases, irrespective of size, into smaller, faster, and more easily managed parts called data shards (shard means "a small part of a whole"). 
+>Using concepts taken from NoSQL (non-relational SQL), Bluzelle's first incarnation is a keyvalue storage that exploits horizontal data sharding partitioning concepts to split databases, irrespective of size, into smaller, faster, and more easily managed parts called data shards (shard means "a small part of a whole"). 
 
 
 >Bluzelle takes this concept and marries it with blockchain concepts to create a powerful economy of producers and consumers. In modern nomenclature, it a crypto-economic network. In later versions, vertical partitioning will be added, with the ability for the consumer to direct how and where partitioning occurs on both axis’.
@@ -126,4 +130,4 @@ I think it's safe to say Bluzelle is a team to watch, and you certainly don't wa
 
 [8.] (https://medium.com/@didil/off-chain-data-storage-ethereum-ipfs-570e030432cf) https://medium.com/@didil/off-chain-data-storage-ethereum-ipfs-570e030432cf   
 
-[9.] (https://bluzelle.com/) https://bluzelle.com/  
+[9.] (https://bluzelle.com/) https://bluzelle.com/
