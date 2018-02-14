@@ -40,7 +40,7 @@ Blockchain data is immutable (can never be changed), and blockchains generally g
 >There’s rapid innovation in blockchain and frenetic activity in the decentralized storage space, in particular, thanks to IPFS/Filecoin, Storj, Sia, and Ethereum’s Swarm. But these solutions can only progress the decentralized so far.
 
 >Bluzelle fills a key gap in decentralised infrastructure. Whenever we are asked what is Bluzelle’s differentiator — and we get the question a lot — the answer is simple:
-
+<!--more-->
 >Bluzelle is a database service while the rest of these are file services.”
 
 >Bluzelle is a quick, cheap and scalable decentralized database service ready for the world’s dApps.
