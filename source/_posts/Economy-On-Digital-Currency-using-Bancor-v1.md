@@ -73,7 +73,7 @@ In effect, both the connector balance and the Smart Token’s supply would have 
 
 > The ratio is called the connector weight, or CW for short.
 
-[a] ![alt text](https://i.imgur.com/dGA9uBr.png)
+[a] ![alt text](https://i.imgur.com/N0FvVWp.png)
 
 The Smart Token’s total value, meaning its market cap, is equal to the amount of money one would receive through selling every token (meaning the entire Smart Token supply) at its current value (i.e., price). The price of a Smart Token is denominated in the connected token (such as, the price of BNT is denominated in ETH being its connected token). 
 
