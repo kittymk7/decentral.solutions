@@ -77,7 +77,7 @@ In effect, both the connector balance and the Smart Token’s supply would have 
 
 The Smart Token’s total value, meaning its market cap, is equal to the amount of money one would receive through selling every token (meaning the entire Smart Token supply) at its current value (i.e., price). The price of a Smart Token is denominated in the connected token (such as, the price of BNT is denominated in ETH being its connected token). 
 
- ![alt text](https://i.imgur.com/1VNtWdZ.png) [b]
+![alt text](https://i.imgur.com/1VNtWdZ.png) [b]
 
 These relationships are the keys to Bancor’s pricing algorithm because they allow the system to solve for each Smart Token’s price as a function of its CW, the connector balance, and the Smart Token’s outstanding supply. 
 
