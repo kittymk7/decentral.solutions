@@ -73,15 +73,15 @@ In effect, both the connector balance and the Smart Token’s supply would have 
 
 > The ratio is called the connector weight, or CW for short.
 
-[a] ![alt text](https://i.imgur.com/dGA9uBr.png)
+[a] ![alt text](https://i.imgur.com/qW3wz3d.png)
 
 The Smart Token’s total value, meaning its market cap, is equal to the amount of money one would receive through selling every token (meaning the entire Smart Token supply) at its current value (i.e., price). The price of a Smart Token is denominated in the connected token (such as, the price of BNT is denominated in ETH being its connected token). 
 
-[b] ![alt text](https://i.imgur.com/ClkSFZq.png)
+[b] ![alt text](https://i.imgur.com/1VNtWdZ.png)
 
 These relationships are the keys to Bancor’s pricing algorithm because they allow the system to solve for each Smart Token’s price as a function of its CW, the connector balance, and the Smart Token’s outstanding supply. 
 
-[c] ![alt text](https://i.imgur.com/GoGheQb.png)
+[c] ![alt text](https://i.imgur.com/3he56us.png)
 
 Smart Tokens set their own prices in respect to the reserve token they each holds. The price automatically increases when more tokens are purchased, and the price decreases when they are liquidated back to being reserve token. Thus, each Smart Token maintains a ratio between the connector balance (reserve token balance) over its total value (total supply multiplies by the unite price). And, in the case of BNT, it becomes more valuable as more Smart Tokens are jointed into the Bancor Network and utilize BNT as their connector. As the BNT’s value increases, the value of each Smart Token utilizing BNT as a connect also increases.
 
@@ -91,15 +91,15 @@ At any given time, each connector always has an accurate record of the size of i
  
 When buying or selling Smart Tokens (effectively increasing or decreasing their supply), the prices move! In fact, even the tiniest transaction moves the price of a Smart Token to a new level of value, meaning that a buyer will get a different price if she splits her order into many small transactions. To address this, when needing to calculate an actual conversion price, look at the total amount of tokens a Smart Token must return to the buyer (in new Smart Tokens issued) or seller (in connected tokens withdrawn from the connector balance) for a given amount of tokens received (of either the connected token from a buyer, or the Smart Token from a seller). The equation for determining the price of a Smart Token at any given point in time is as below: 
 
-[d] ![alt text](https://i.imgur.com/ql96TVo.png)
+[d] ![alt text](https://i.imgur.com/CDhxXRu.png)
 
 The equation was derived by viewing a transaction as the result of many infinitely small transactions that each impact the Smart Token’s supply and the connector balance, thus leading to a new price for each subsequent increment. The actual price for a given transaction size is the final price after each infinitely small increment of the transaction size has had its relative impact on the price. The equations are similar for both buy and sell orders, where we derive the actual amount of the Smart Token units to issue (to a buyer) or connected tokens to withdraw from the connector balance (for a seller) for a given amount of tokens received by the Smart Token contract. 
 
-[e] ![alt text](https://i.imgur.com/J3H7mXA.png)
+[e] ![alt text](https://i.imgur.com/zCNczAm.png)
 
 Hence, We are now able to calculate the effective price of a transaction by considering the amount of Smart Tokens converted per connected token, i.e., the price of a Smart Token in terms of its connected token. 
 
-[f] ![alt text](https://i.imgur.com/pCAQXAS.png)
+[f] ![alt text](https://i.imgur.com/TTu0wBI.png)
 
 This effective price will be different for each transaction size, and in relation to each connector in the case of more than one. The effective price has the desired property of ten small transactions or one large transaction of the same cumulative amount leading to exactly the same cost, ideally. 
 
@@ -138,13 +138,13 @@ The leverage provided by a substantial connector balance and high weight makes t
 
 Given the relationships as provided earlier (equation [c] is derived from equalizations earlier [a] and [b]), price would be determined as follows:  
 
-[c] ![alt text](https://i.imgur.com/GoGheQb.png)
+[c] ![alt text](https://i.imgur.com/3he56us.png)
 
 CW is, for the purpose of the cases we will discuss,  known to be a number greater than 0% but less than 100%. And, given the connector balance is known (each connector always has an accurate record of the size of its balance), as well as the Smart Token’s outstanding supply (current number of Smart Tokens in supply). It is worth noting that  CW assumes a significant role in the computation of price.. 
 
 A Smart Token with a 10% connector weight (CW) is comparable to an exchange having an order book equal in value to 10% of the token’s entire market cap. This sensitivity can be adjusted via the CW and connector balance to achieve the desired profile of a given Smart Token. The demand of any one side of the balance dictates its price relative to the other side. When the supply of one connector is reduced, the price increases. This allows the market to determine the price of each side of the Relay Token.
 
-![alt text](https://i.imgur.com/zKpjUXc.png)
+![alt text](https://i.imgur.com/cTM7ZDt.png)
 
 Fig. 3 shows how the price of a Smart Token reacts to changes in demand for different values of the CW 
 
@@ -160,15 +160,15 @@ The illustrated cases in Fig. 3 as depicted in following:
 Note that in theory, it is also possible for a Smart Token to have a CW that is greater than 100%; however, this is a specific case where the token becomes cheaper as demand increase, it is not covered here. 
 Say a Smart Token currently has a supply of 1000 tokens, with a connector that currently holds a balance of 250 of the connected tokens, and a CW of 50%. This Smart Token can be converted into its connected token at the following price:
  
-[c-1] ![alt text](https://i.imgur.com/oMXbaEp.png)
+[c-1] ![alt text](https://i.imgur.com/QbLZ60N.png)
 
 Suppose a buyer wants to convert 10 units of the connected token into Smart Tokens. How many Smart Tokens will she receive?
 
-[d-1] ![alt text](https://i.imgur.com/wTmqEQd.png)
+[d-1] ![alt text](https://i.imgur.com/UaIebEq.png)
 
 Considering the amount of Smart Tokens issued, we can now derive the effective price when converting 10 units of the connected token into the Smart Token is derived:
 
-[f-1] ![alt text](https://i.imgur.com/znrEIuA.png)
+[f-1] ![alt text](https://i.imgur.com/gK7qIlX.png)
 
 Notice how the effective price is different from the quoted price, in this case slightly higher. The difference is due to the price slippage for this particular transaction size explained in the previous section. In other words, each infinitely small incremental unit of the 10 tokens converted lead to upward pressure on the price, by adding to the connector balance and to the Smart Token supply. Effectively, the buyer has paid for the price slippage caused by her own transaction. The buyer is able to perform these computations prior to sending her tokens to the smart contract;, thus, allowing her to accurately gauge how the price will move in response to her conversion. **The predictability and uniformity of the price slippage is a key benefit of the Bancor formula.**
 
@@ -223,9 +223,7 @@ Today, having Bancor Protocol in place, as either a buyer or seller in the digit
  
  
  
-REFERENCES 
+> REFERENCES   
 
-[1. https://storage.googleapis.com/website-] (https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf)
-
-[2. https://support.bancor.network/hc/en-us/articles/360000471472-How-do-Relay-Tokens-work-] (https://support.bancor.network/hc/en-us/articles/360000471472-How-do-Relay-Tokens-work-)
-
+[1. Bancor White Paper](https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf)
+[2. Bancor Network Articles](https://support.bancor.network/hc/en-us/articles/360000471472-How-do-Relay-Tokens-work-)
